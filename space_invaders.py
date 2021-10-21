@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-
-# Space Invaders Bitches
-
 from pygame import *
 import sys
 from os.path import abspath, dirname
