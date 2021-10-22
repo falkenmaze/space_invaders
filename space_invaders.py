@@ -4,6 +4,8 @@ import sys
 from os.path import abspath, dirname
 from random import choice
 
+#WARNING: YOU ARE GAY IF YOU PLAY THIS GAME
+
 BASE_PATH = abspath(dirname(__file__))
 FONT_PATH = BASE_PATH + '/fonts/'
 IMAGE_PATH = BASE_PATH + '/images/'
