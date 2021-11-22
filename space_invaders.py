@@ -4,7 +4,7 @@ import sys
 from os.path import abspath, dirname
 from random import choice
 
-#WARNING: YOU ARE GAY IF YOU PLAY THIS GAME
+#To play this game put the .ttf files in a folder named fonts(case sensitive), the .jpg, .png files in a folder named images, the .wav files in a folder named sounds all in the same directory containing the space_invaders.py file
 
 BASE_PATH = abspath(dirname(__file__))
 FONT_PATH = BASE_PATH + '/fonts/'
