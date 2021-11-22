@@ -1,4 +1,4 @@
-# space_invaders_mf
+# space_invaders
 the game is written in python using pygame\
 can be played using terminal\
 use this command to install pygame:
